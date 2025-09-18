@@ -19,7 +19,7 @@ cd YouTube-comments-Segment-analysis
 
 2. Install required dependencies:
 ```bash
-# Add your installation commands here
+pip install -r requirements.txt
 ```
 
 ## Usage
@@ -45,7 +45,7 @@ cd YouTube-comments-Segment-analysis
 Feel free to open issues or submit pull requests with improvements.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT [LICENSE](LICENSE) - see the LICENSE file for details.
 
 ## Author
 [Hany Medhat](https://github.com/HanyMedhat10)
